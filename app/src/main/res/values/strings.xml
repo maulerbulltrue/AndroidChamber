@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidChamber</string>
+
+    <string name="sound_button">Sound Chamber</string>
 </resources>
